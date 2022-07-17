@@ -2,7 +2,7 @@
 #include <cmath>
 
 const char arr[6]{'a', 'b', 'c', 'x', 'y', 'z'};
-const char target = 'x';
+const char target = 'a';
 
 char binarySearch(char target, int start, int end)
 {
